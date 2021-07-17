@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to a job related of data 
 - 🥅 2021 Goals: Contribute more to my career-path about data science!
-- ⚡ Fun fact: I love to drink and play 🤣
+- ⚡ Fun fact: I love to drink and play
 
 ### Spotify Playing 🎧
 
@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="" />][instagram]
+[<img align="left" alt="facebook" width="22px" src="https://images.app.goo.gl/3x5TenakJFyqmxYt6" />][facebook]
+[<img align="left" alt="alt="twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][twitter]
+[<img align="left" alt="alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+[<img align="left" alt="alt="instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][instagram]
 
 <br />
 
